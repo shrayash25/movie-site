@@ -1,0 +1,32 @@
+*{
+  margin:0;
+padding:0;
+box-sizing:border-box;
+
+}
+
+:root{
+  background-color: rgb(94, 32, 49);
+  color:white;
+
+}
+
+.main{
+  display:flex;
+  gap:1.5rem;
+  flex-wrap:wrap;
+}
+
+.logo{
+  height:10rem;
+  width:auto;
+ 
+}
+
+.navbar{
+  background-color:rgb(114, 40, 61);
+height:10rem;
+display:flex;
+justify-content: center;
+align-items: center;
+}
